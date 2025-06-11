@@ -1,53 +1,75 @@
-# 👋 Hi, I'm Nkosilomusa Ncube
-
-🚀 *Building intelligent systems, integrating platforms, and leading teams to deliver next-generation solutions.*
-
----
-
-## 👨‍💻 About Me
-
-I’m a **Software Engineer**, **Systems Integration Specialist**, and **Team Leader at Codegarden**, blending my passion for AI, automation, and complex system design to build real-world solutions that scale. 
-
-With a foundation in both **back-end** and **front-end** technologies, I love solving difficult problems with clean architecture, efficient code, and AI-powered innovation.
-
-I'm also a lifelong learner and a passionate enthusiast of **Theoretical Physics** and **Robotics** — always curious, always building.
+<h2 align="left">Hi 👋! My name is Nkosilomusa Ncube</h2>
+<h4 align="left">Software Engineer | Systems Integration Specialist | AI Enthusiast | Team Leader at Codegarden</h4>
 
 ---
 
-## 💡 My Tech Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
 
-- **Languages**: Python · Java · JavaScript · Node.js
-- **Back-End**: Django · FastAPI · Express.js
-- **Front-End**: React · React Native (Expo) · Angular · Flutter
-- **Systems**: Message Queues · System Integration · Microservices
-- **AI & ML**: Machine Learning · Artificial Intelligence · Automation
-- **Other**: REST APIs · Full-Stack Development · Scalable Systems
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Animated Robot" />
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 Tech I Work With
 
-- 🎯 [Attendance Tracker](https://fitchlea-attendance-tracker.vercel.app/admin/dashboard/events) — AI-powered event attendance system.
-- 🎯 [School Fees & Report System](https://fitchlea.vercel.app/) — End-to-end academic management system.
-- 🎯 [My Portfolio](https://cheery-naiad-7efa33.netlify.app/) *(Currently upgrading this for a better experience)*
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+</div>
 
 ---
 
-## 🌐 Online Presence
+### 📌 Notable Projects
 
-- 🔗 [Personal Portfolio](https://fitchlea.vercel.app/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nkosilomusa-ncube-2b7660242/)
-
----
-
-## 🎯 Personal Interests
-
-- 💡 Theoretical Physics Enthusiast
-- 🤖 Robotics Explorer
-- 🌱 Lifelong Learner
+- 🎯 [Attendance Tracker (Admin Panel)](https://fitchlea-attendance-tracker.vercel.app/admin/dashboard/events)
+- 🎯 [School Fees & Report Management](https://fitchlea.vercel.app/)
+- 🌐 [Main Portfolio (Updating Soon)](https://cheery-naiad-7efa33.netlify.app/)
 
 ---
 
-### ⚡ *"I believe in building today, automating tomorrow, and always exploring beyond."*
+### 💬 Let's Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nkosilomusa-ncube-2b7660242/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nkosinducode@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://fitchlea.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+### 🧠 Hobbies & Interests
+
+- 💡 Theoretical Physics & Scientific Thinking  
+- 🤖 Robotics & AI Automation  
+- 📚 Teaching, Mentorship & Community Building  
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
